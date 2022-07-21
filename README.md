@@ -6,7 +6,7 @@
 - 🌱 
 atualmente estou aprendendo **Back-End na Trybe.**
 
-- 📫 How to reach me **jonathan01347@gmail.com**
+- 📫 Como chegar até mim **jonathan01347@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
