@@ -22,3 +22,6 @@ atualmente estou aprendendo **Back-End na Trybe.**
 
 [<img src="https://novatorem-quhjkrawu-jonathanprojetos.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/my3i7tuyhop50yksv3d78qrhe)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanprojetos&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanprojetos&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
