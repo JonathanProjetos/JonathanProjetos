@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanprojetos&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanprojetos" / > </p>
 
-- 🌱 Estou aprendendo **Atualmente estudando Back-End na Trybe.**
+- 🌱 Estou aprendendo **Back-End na Trybe.**
 
 - 📫 Como me encontrar **jonathan01347@gmail.com**
 
