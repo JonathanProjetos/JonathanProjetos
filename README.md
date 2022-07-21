@@ -20,5 +20,5 @@ atualmente estou aprendendo **Back-End na Trybe.**
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-quhjkrawu-jonathanprojetos.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/my3i7tuyhop50yksv3d78qrhe)
+[<img src="https://novatorem-quhjkrawu-jonathanprojetos.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/my3i7tuyhop50yksv3d78qrhe)
 
