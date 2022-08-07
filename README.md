@@ -8,6 +8,8 @@ atualmente estou aprendendo **Back-End na Trybe.**
 
 - 📫 Como chegar até mim **jonathan01347@gmail.com**
 
+- 👨‍💻 portifolio [https://my-portifolio-eta.vercel.app/](https://my-portifolio-eta.vercel.app/)
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jonathan-jhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-jhon" height="30" width="40" /></a>
