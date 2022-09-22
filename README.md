@@ -8,7 +8,7 @@ atualmente estou aprendendo **Back-End na Trybe.**
 
 - 📫 Como chegar até mim **jonathan01347@gmail.com**
 
-- 👨‍💻 portifolio [https://my-portifolio-git-link-home-jonathanprojetos.vercel.app)
+- 👨‍💻 portifolio https://my-portifolio-h0888u9s7-jonathanprojetos.vercel.app
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
