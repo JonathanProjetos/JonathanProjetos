@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, Bem vindo! Me chamo Jonathan Santos.</h1>
-<h3 align="center">Desenvolvedor Front-End | Estudante Back-End</h3>
+<h3 align="center">Desenvolvedor Full-Stack</h3>
+<h3 align="center">Estudando Ciência da Computação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanprojetos&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanprojetos" /> </p>
 
@@ -13,8 +14,7 @@ atualmente estou aprendendo **Back-End na Trybe.**
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jonathan-jhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-jhon" height="30" width="40" /></a>
-<a href="https://codesandbox.com/jonathan01347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jonathan01347" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@jonathan01347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jonathan01347" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
