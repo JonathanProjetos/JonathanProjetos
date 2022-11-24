@@ -1,11 +1,10 @@
 <h1 align="center">Olá 👋, Bem vindo! Me chamo Jonathan Santos.</h1>
 <h3 align="center">Desenvolvedor Full-Stack</h3>
-<h3 align="center">Estudando Ciência da Computação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanprojetos&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanprojetos" /> </p>
 
 - 🌱 
-atualmente estou aprendendo **Back-End na Trybe.**
+atualmente estou aprendendo **Ciência da computação na Trybe.**
 
 - 📫 Como chegar até mim **jonathan01347@gmail.com**
 
