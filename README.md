@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanprojetos&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanprojetos" /> </p>
 
 - 🌱 
-atualmente estou aprendendo **Java, GO.**
+atualmente estou cursando Ciência da Computação com ênfase em full-stack Dev na faculdade **Descomplica**.
 
 - 📫 Como chegar até mim **jonathan01347@gmail.com**
 
