@@ -2,6 +2,9 @@
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanprojetos&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanprojetos" /> </p>
+<p>
+  Seja muito bem-vindo! Como dito acima, me chamo Jonathan e sou de Contagem, MG. Este repositório contém projetos que comprovam a minha evolução dentro do cenário do desenvolvimento web. Iniciei minha trajetória na obtenção de conhecimento na área no ano de 2022. Para consolidar a trilha de forma mais assertiva e eficiente, consumi conteúdos de aprendizagem em instituições de ensino que foram fundamentais para a minha evolução nas habilidades de hard skills e soft skills. Entre elas, destaco a Trybe, um curso intensivo de programação que aborda os três modelos de desenvolvimento web: front-end, back-end e full-stack, com carga horária superior a 1500 horas. Também fiz o curso da Escola da Nuvem, que oferece conhecimentos voltados para a AWS (Amazon Web Services) e teve duração de 6 meses. Meu próximo desafio é cursar Ciência da Computação na Descomplica. Estou feliz em recebê-lo aqui. Fique à vontade para consumir ou utilizar qualquer recurso que possa ser do seu interesse. Abaixo estão os canais de contato caso queira conversar.
+</p>
 
 - 🌱 Atualmente estou cursando Ciência da Computação com ênfase em full-stack Dev na faculdade **Descomplica**.
 
