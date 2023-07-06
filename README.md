@@ -14,10 +14,15 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jonathan-jhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-jhon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jonathan-jhon" target="blank">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40" />
+</a>
+<a href="mailto:jonathan01347@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="40" />
+</a>
 </p>
 
-<h3 align="left" >Linguagens e ferramentas conhecidas</h3>
+<h3 align="left" >Linguagens e ferramentas conhecidas:</h3>
 
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -84,10 +89,25 @@
     <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849B" alt="insominia" height="40"/>
   </a>
   <a href="https://mochajs.org" target="_blanck" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="insominia" height="40"/>
+    <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="mochajs" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blanck" rel="noreferrer">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="40"/>
+  </a>
+  <a href="https://slack.com" target="_blanck" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack" height="40"/>
   </a>
 </p>
 
+<h3 align="left">Estou aprendendo:</h3>
+<p>
+  <a href="https://go.dev" target="_blanck" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white" alt="golang" height="40"/>
+  </a>
+  <a href="https://angular.io" target="_blanck" rel="noreferrer">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angularjs" height="40"/>
+  </a>
+</p>
 
 ### Spotify 🎧
 
