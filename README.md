@@ -97,6 +97,9 @@
   <a href="https://slack.com" target="_blanck" rel="noreferrer">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack" height="40"/>
   </a>
+  <a href="https://styled-components.com" target="_blanck" rel="noreferrer">
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=whit" alt="styledcomponents" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Estou aprendendo:</h3>
@@ -106,6 +109,9 @@
   </a>
   <a href="https://angular.io" target="_blanck" rel="noreferrer">
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angularjs" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blanck" rel="noreferrer">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" height="40"/>
   </a>
 </p>
 
