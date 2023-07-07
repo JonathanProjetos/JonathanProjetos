@@ -10,7 +10,7 @@
 
 - 📫 Como chegar até mim **jonathan01347@gmail.com**
 
-- 👨‍💻 portifolio https://my-portifolio-eta.vercel.app/
+- 👨‍💻 **portifolio** https://my-portifolio-eta.vercel.app/
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
